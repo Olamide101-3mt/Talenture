@@ -1,6 +1,6 @@
 import React from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
-import { useAuthStore } from "./store/useAuthStore";
+import useAuthStore from "./store/useAuthStore";
 import Sidebar from "./components/Sidebar";
 import Topbar from "./components/Topbar";
 

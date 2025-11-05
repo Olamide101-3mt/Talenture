@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import logo from '../assets/Logo.png';
-import clockImage from '../assets/clock.png';
+import clockImage from '../assets/Image.png';
 import useAuthStore from "../store/useAuthStore";
 import { useNavigate } from "react-router-dom";
 import { toast } from 'react-hot-toast';

@@ -1,5 +1,5 @@
 import React from "react";
-import StatCard from "../components/StatCard";
+import StatCard from "../components/Statcard";
 import WorkingChart from "../components/WorkingChart";
 import RecentInvoices from "../components/RecentInvoices";
 
